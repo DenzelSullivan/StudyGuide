@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">StudyGuide</string>
+    <string name="show_toast">Show Toast</string>
+    <string name="show_snackbar">Show Snackbar</string>
+    <string name="toast_text">This is a toast</string>
+    <string name="snack_text">This is a snackbar</string>
 </resources>
