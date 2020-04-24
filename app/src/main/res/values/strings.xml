@@ -4,4 +4,6 @@
     <string name="show_snackbar">Show Snackbar</string>
     <string name="toast_text">This is a toast</string>
     <string name="snack_text">This is a snackbar</string>
+    <string name="send_notification">Send Notification</string>
+    <string name="channel_id">channel_id</string>
 </resources>
