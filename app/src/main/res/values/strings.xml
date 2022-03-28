@@ -6,4 +6,7 @@
     <string name="snack_text">This is a snackbar</string>
     <string name="send_notification">Send Notification</string>
     <string name="channel_id">channel_id</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
